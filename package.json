@@ -1,0 +1,9 @@
+{
+    "name": "tsTest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "scripts.js",
+    "scripts": {
+        "tsc": "tsc scripts.ts"
+    }
+}
