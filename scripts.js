@@ -4,3 +4,5 @@ window.onload = function () {
     titulo.textContent = "Hola Mundo son las ".concat(hoy.getHours(), ":").concat(hoy.getMinutes());
     alert('Hello mundo');
 };
+
+//just a comment
