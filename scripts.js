@@ -5,4 +5,4 @@ window.onload = function () {
     alert('Hello mundo');
 };
 
-//just a comment
+let x = 5;
